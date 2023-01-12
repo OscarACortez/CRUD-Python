@@ -12,7 +12,7 @@ Este es un portafolio creado con lenguaje Python 3
 
 ## Ver ejemplo en vivo
 
---[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
+* [https://github.com/OscarACortez/CRUD-Pthon.git](https://github.com/OscarACortez/CRUD-Pthon.git)
 
 
 ## Instalación 
