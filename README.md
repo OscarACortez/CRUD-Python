@@ -1,2 +1,22 @@
-# CRUD-Python
-CRUD de Python para conocer este maravilloso lenguaje de programación 
+Descripción 👨‍⚖️
+
+Este es un portafolio creado con lenguaje Python 3
+
+## Autor-
+** Oscar Cortez **
+
+
+* [Linkedin](https://www.linkedin.com/in/oscar-cortez-6058401a/) 
+* [YouTube](https://youtu.be/E9PlulBIU3U/)
+* [Twitter](https://twitter.com/oscar0101?t=rJR55R2Ue-rAKAiJAeuOnQ&s=09/)
+
+## Ver ejemplo en vivo
+
+--[LONLACESITHPAGES] (ENLACEGITHUBPAGES)
+
+
+## Instalación 
+* Este proyecto necesita de instalación de Python, Visual Studio Code y XAMPP para BD MySQL. Simplemente abre la carpeta desde VSCode y clic al archivo .py
+
+## Contratación 
+* Si quieres contratarne puedes escribirse a oscar0002ortiz@gmail.com para consultas.
